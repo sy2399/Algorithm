@@ -13,3 +13,6 @@ Algorithm solution
     - p2382, p2383
 
 ## BaekJoon : Stepwise coding
+  - Recursion
+  - IO
+  - Dynamic Programming
