@@ -1,5 +1,12 @@
 # Algorithm
 Algorithm solution
+## Basic
+  - Stack, Queue
+  - Dynamic Programming
+  - Graph, Tree
+    - BFS, DFS
+    - Binary Tree
+    
 
 ## HackerRank : Code Efficiency
   - Implementation
