@@ -1,0 +1,56 @@
+<큰 문제를 작은 문제로!>
+1. Divide and Conquer 
+: 주어진 문제를 작은 문제로 나누고(Divide) 각각의 작은 문제들을 해결하여 정복(Conquer) 하는 방법
+
+1. 문제를 하나 이상의 작은 문제로 분할한다(Divide)
+2. 작은 문제가 분할 가능할 경우,분할이 불가능할 때까지 재귀로 더 나눈다.
+   작은 문제들을 각각 정복(Conquer) - 해결 한다. 
+3. 작은 사례에 대한 해답을 통합(Combine) 하여 본 문제의 답을 구한다
+
+* 장점
+- 문제를 나누어 해결한다는 특징 때문에, 병렬적으로 문제를 해결하는 데에 효율적
+
+* 단점 
+- 문제를 분할하는 과정에서 함수를 재귀적으로 호출하기 때문에 
+  stack overflow 가 발생하거나, 과도한 메모리를 사용 
+
+* Divide and Conquer 알고리즘의 종류 
+- Binary Search
+- Merge Sort
+- Quick Sort
+- Matrix Multiplication
+
+
+2. Dynamic Programming - 동적 프로그래밍 
+동적(있어보이는 단어..) + 프로그래밍 (컴퓨터 프로그래밍이 아닌 테이블을 만든다는 의미 )
+
+* 동적 프로그래밍 - Bottom Up
+: 
+
+* Cf. 메모제이션 (Memoization) - Top Down
+- 재귀 호출 시, 반복적으로 계산되는 것들의 계산 횟수를 줄이기 위해 
+  이전에 계산했던 값을 저장해두었다가 나중에 재사용하는 방법 
+- Divide & Conquer 사용시, 작은 문제들을 풀다보면 같은 문제들을 반복해서 푸는 경우 발생, 
+  그 문제들을 매번 재계산 하지 않고 값을 저장해두었다가(Cashing) 재사용하는 기법
+(cf. https://new93helloworld.tistory.com/220)
+- 미리 알고 있는 부분을 If 문을 사용해서 Skip!
+
+* 동적 프로그래밍 vs 메모제이
+1) 메모이제이션이나 다이나믹 프로그래밍 둘다 순환식을 계산하는 방법이라고 할 수 있다.
+
+2) 모두 동적 계획법의 일종이라고 보기도 한다.
+
+3) 메모이제이션은 Top down 방식이고 실제 필요한 sub problem을 푼다, 
+
+4) 다이나믹 프로그래밍은 Bottom up 방식이며 재귀에 수반되는 overhead가 없다.
+
+* Dynamic Programming 알고리즘의 종류 
+- Binomial Coefficient
+- Floyd's algorithm for shortest path
+- Optimization
+- Chained Matrix
+- Optimal Binary Search Tree
+- Traveling Salesperson Problem  
+- Sequence Alignment
+
+ex) 최장 공통 부분 수열 , 부분집합의 합, 배낭 문
