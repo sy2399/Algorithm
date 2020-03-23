@@ -6,19 +6,7 @@ Algorithm solution
   - [ ] Graph, Tree
     - [ ] BFS, DFS
     - [ ] Binary Tree
-    
-
-## HackerRank : Code Efficiency
-  - [x] Implementation
-  - [x] String
-  - [x] Sorting
-  - [x] Search
-  - [x] Graph
-  
-## Samsung SW : Code implementation
-  - 모의 SW 역량 테스트
-    - p2382, p2383
-
+*****    
 ## BaekJoon : Stepwise coding
   - [x] Recursion
   - [x] IO
@@ -28,8 +16,14 @@ Algorithm solution
   - [ ] Divide & Conquer
   - [ ] Greedy
   - [ ] Search 완전탐색
-  
-
+*****     
+## HackerRank : Code Efficiency (Timeout 엄청 까다로움!)
+  - [x] Implementation
+  - [x] String
+  - [x] Sorting
+  - [x] Search
+  - [x] Graph
+*****     
 ## Programmers : Stepwise coding (Code accuracy & Code efficiency)
   - [ ] Hash
   - [ ] Stack/Queue
@@ -39,3 +33,7 @@ Algorithm solution
   - [ ] Greedy
   - [ ] Dynamic Programming
   - [ ] DFS/BFS
+*****  
+## Samsung SW : Code implementation
+  - 모의 SW 역량 테스트
+    - p2382, p2383
