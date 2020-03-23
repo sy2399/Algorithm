@@ -23,3 +23,13 @@ Algorithm solution
   - Recursion
   - IO
   - Dynamic Programming
+
+## Programmers : Stepwise coding (Code accuracy & Code efficiency)
+  - Hash
+  - Stack/Queue
+  - Heap
+  - Sorting
+  - Brute-force 완전탐색
+  - Greedy
+  - Dynamic Programming
+  - DFS/BFS
