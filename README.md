@@ -6,6 +6,10 @@ Algorithm solution
   - [ ] Graph, Tree
     - [ ] BFS, DFS
     - [ ] Binary Tree
+  - [ ] Sorting
+    - [ ] Simple O(N^2) : Selection Sort, Insertion Sort, Bubble Sort
+    - [ ] Fast O(NlogN) : Merge Sort, Quick Sort, Heap Sort
+    - [ ] O(dn) : Radix Sort
 *****    
 ## BaekJoon : Stepwise coding
   - [x] Recursion
