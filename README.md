@@ -25,7 +25,7 @@ Algorithm solution
   - [x] Graph
 *****     
 ## Programmers : Stepwise coding (Code accuracy & Code efficiency)
-  - [ ] Hash
+  - [x] Hash
   - [ ] Stack/Queue
   - [ ] Heap
   - [ ] Sorting
