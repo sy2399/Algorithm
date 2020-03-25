@@ -38,6 +38,7 @@ Algorithm solution
   - [ ] Dynamic Programming
   - [ ] DFS/BFS
 *****  
-## Samsung SW : Code implementation
-  - 모의 SW 역량 테스트
+## Test_Sample : 기출문제 
+  - [ ] 모의 SW 역량 테스트
     - p2382, p2383
+  - [ ] KAKAO Blind 
