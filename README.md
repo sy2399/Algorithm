@@ -15,6 +15,7 @@ Algorithm solution
   - [x] Recursion
   - [x] IO
   - [x] Dynamic Programming
+  - [ ] Stack/Queue
   - [ ] Graph
   - [ ] Search (이분탐색, 삼분탐색)
   - [ ] Divide & Conquer
@@ -41,4 +42,4 @@ Algorithm solution
 ## Test_Sample : 기출문제 
   - [ ] 모의 SW 역량 테스트
     - p2382, p2383
-  - [ ] KAKAO Blind 
+  - [ ] KAKAO 2019 겨울 인턴
