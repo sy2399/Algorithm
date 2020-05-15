@@ -15,7 +15,7 @@ Algorithm solution
   - [x] Recursion
   - [x] IO
   - [x] Dynamic Programming
-  - [ ] Stack/Queue
+  - [x] Stack/Queue
   - [ ] Graph
   - [ ] Search (이분탐색, 삼분탐색)
   - [ ] Divide & Conquer
@@ -31,7 +31,7 @@ Algorithm solution
 *****     
 ## Programmers : Stepwise coding (Code accuracy & Code efficiency)
   - [x] Hash
-  - [ ] Stack/Queue
+  - [x] Stack/Queue
   - [ ] Heap
   - [ ] Sorting
   - [ ] Brute-force 완전탐색
