@@ -32,10 +32,10 @@ Algorithm solution
 ## Programmers : Stepwise coding (Code accuracy & Code efficiency)
   - [x] Hash
   - [x] Stack/Queue
-  - [ ] Heap
-  - [ ] Sorting
+  - [ ] 😱 Heap
+  - [x] Sorting
   - [ ] Brute-force 완전탐색
-  - [ ] Greedy
+  - [x] Greedy
   - [ ] Dynamic Programming
   - [ ] DFS/BFS
 *****  
