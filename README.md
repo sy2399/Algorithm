@@ -10,17 +10,6 @@ Algorithm solution
     - [x] Simple O(N^2) : Selection Sort, Insertion Sort, Bubble Sort
     - [ ] Fast O(NlogN) : Merge Sort, Quick Sort, Heap Sort
     - [ ] O(dn) : Radix Sort
-*****    
-## BaekJoon : Stepwise coding
-  - [x] Recursion
-  - [x] IO
-  - [x] Dynamic Programming
-  - [x] Stack/Queue
-  - [ ] Graph
-  - [ ] Search (이분탐색, 삼분탐색)
-  - [ ] Divide & Conquer
-  - [ ] Greedy
-  - [ ] Search 완전탐색
 *****     
 ## HackerRank : Code Efficiency (Timeout 엄청 까다로움!)
   - [x] Implementation
