@@ -21,12 +21,12 @@ Algorithm solution
 ## Programmers : Stepwise coding (Code accuracy & Code efficiency)
   - [x] Hash
   - [x] Stack/Queue
-  - [ ] 😱 Heap
+  - [x] 😱 Heap
   - [x] Sorting
   - [ ] Brute-force 완전탐색
   - [x] Greedy
-  - [ ] Dynamic Programming
-  - [ ] DFS/BFS
+  - [x] Dynamic Programming
+  - [x] DFS/BFS
 *****  
 ## Test_Sample : 기출문제 
   - [ ] 모의 SW 역량 테스트
