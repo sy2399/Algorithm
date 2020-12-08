@@ -3,6 +3,7 @@ Algorithm solution
 <img width="1064" alt="Algorithm_map" src="https://user-images.githubusercontent.com/25919167/98776436-4173b980-2432-11eb-97e4-f45f73a17b16.png">
 
 ***
+## HackerRank, Programmers, BaekJoon
 - Stack/Queue
 - Hash
 - Heap
@@ -15,12 +16,11 @@ Algorithm solution
 - Etc. (Implementation, Search, String)
 
 ***
-
-- Daily : 파이썬 알고리즘 인터뷰
+## Daily : 파이썬 알고리즘 인터뷰
   - YouTube: https://www.youtube.com/watch?v=fNyGHpSWhTA
   - Git: https://github.com/onlybooks/algorithm-interview
 
-1. 문자열
+### 1. 문자열
 - 문자열 조작 문제는 '슬라이싱[]' 이 속도 면에서 매우 빠름
 - 팰린드롬 = str[::-1]
   - 가장 긴 팰린드롬 문제는 `투 포인터`를 활용한 expand()함수 사용하기
@@ -30,7 +30,7 @@ Algorithm solution
   - list.sort(key=lambda x : (x.split()[1:], x.split()[0]))
 - anagram을 판단하는 가장 간단한 방법: 정렬하여 비교
 
-2. 
+### 2. 배열
   
 ***
 **😱 내가 약한 부분**
