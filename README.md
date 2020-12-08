@@ -13,10 +13,25 @@ Algorithm solution
 - DFS/BFS
 - BinarySearch
 - Etc. (Implementation, Search, String)
+
+***
+
 - Daily : 파이썬 알고리즘 인터뷰
   - YouTube: https://www.youtube.com/watch?v=fNyGHpSWhTA
+  - Git: https://github.com/onlybooks/algorithm-interview
 
-![마인드맵](https://user-images.githubusercontent.com/1250095/86745916-a62e9a00-c075-11ea-9aa5-8455e2527f87.png)
+1. 문자열
+- 문자열 조작 문제는 '슬라이싱[]' 이 속도 면에서 매우 빠름
+- 팰린드롬 = str[::-1]
+  - 가장 긴 팰린드롬 문제는 `투 포인터`를 활용한 expand()함수 사용하기
+  - expand() : left, right idx가 같은 문자열일 경우, 윈도우 크기를 좌우로 1씩 넓혀 가며 팰린드롬 여부 확인하는 함수
+- 여러 개의 기준으로 문자열 or 리스트 sorting 하기 
+  - [stackoverflow](https://stackoverflow.com/questions/4233476/sort-a-list-by-multiple-attributes)
+  - list.sort(key=lambda x : (x.split()[1:], x.split()[0]))
+- anagram을 판단하는 가장 간단한 방법: 정렬하여 비교
+
+2. 
+  
 ***
 **😱 내가 약한 부분**
 - `투 포인터 활용 문제` : 가장 긴 팰린드롬, 빗물 트래핑
