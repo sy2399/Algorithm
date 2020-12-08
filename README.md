@@ -17,7 +17,10 @@ Algorithm solution
   - YouTube: https://www.youtube.com/watch?v=fNyGHpSWhTA
 
 ![마인드맵](https://user-images.githubusercontent.com/1250095/86745916-a62e9a00-c075-11ea-9aa5-8455e2527f87.png)
-
+***
+**😱 내가 약한 부분**
+- `투 포인터 활용 문제` : 가장 긴 팰린드롬, 빗물 트래핑
+***
 | 번호 | 제목 | 난이도 | 장 |clear|
 | --- | --- | ---- | - | --- |
 | 1 | [유효한 팰린드롬](https://leetcode.com/problems/valid-palindrome/) | ★ | 6장. 문자열 조작 | [20201130](https://github.com/sy2399/Algorithm/blob/master/Daily/1130.%20Valid%20Palindrome%20%5Bleetcode%20125%5D.ipynb) |
