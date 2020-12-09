@@ -34,7 +34,7 @@ Algorithm solution
   
 ***
 **😱 내가 약한 부분**
-- `투 포인터 활용 문제` : 가장 긴 팰린드롬, 빗물 트래핑, 세 수의 합
+- ‼️ `투 포인터 활용 문제` : 가장 긴 팰린드롬, 빗물 트래핑, 세 수의 합
   - 주어진 값을 다 살펴봐야 하지만, 효율적인 방법이 필요할 때!
 ***
 | 번호 | 제목 | 난이도 | 장 |clear|
@@ -44,10 +44,10 @@ Algorithm solution
 | 3 | [로그 파일 재정렬](https://leetcode.com/problems/reorder-data-in-log-files/) | ★ | 6장. 문자열 조작 | [20201201](https://github.com/sy2399/Algorithm/blob/master/Daily/1201.%20Reorder%20Data%20in%20Log%20Files%20%5Bleetcode%20937%5D.ipynb)|
 | 4 | [가장 흔한 단어](https://leetcode.com/problems/most-common-word/) | ★ | 6장. 문자열 조작 | [20201201](https://github.com/sy2399/Algorithm/blob/master/Daily/1201.%20Most%20Common%20Word%20%5Bleetcode%20819%5D.ipynb) |
 | 5 | [그룹 애너그램](https://leetcode.com/problems/group-anagrams/) | ★★ | 6장. 문자열 조작 | [20201203](https://github.com/sy2399/Algorithm/blob/master/Daily/1203.%20Group%20Anagrams%20%5Bleetcode%2049%5D.ipynb) |
-| 6 | 😱[가장 긴 팰린드롬 부분 문자열](https://leetcode.com/problems/longest-palindromic-substring/) | ★★ | 6장. 문자열 조작 | [20201204](https://github.com/sy2399/Algorithm/blob/master/Daily/1204.%20Logest%20Palindromic%20Substring%20%5Bleetcode%205%5D.ipynb)|
+| 6 | ‼️ [가장 긴 팰린드롬 부분 문자열](https://leetcode.com/problems/longest-palindromic-substring/) | ★★ | 6장. 문자열 조작 | [20201204](https://github.com/sy2399/Algorithm/blob/master/Daily/1204.%20Logest%20Palindromic%20Substring%20%5Bleetcode%205%5D.ipynb)|
 | 7 | [두 수의 합](https://leetcode.com/problems/two-sum/) | ★ | 7장. 배열 | [20201207](https://github.com/sy2399/Algorithm/blob/master/Daily/1207.%20Two%20Sum%20%5Bleetcode%201%5D.ipynb) |
-| 8 | 😱[빗물 트래핑](https://leetcode.com/problems/trapping-rain-water/) | ★★★ | 7장. 배열 | [20201208](https://github.com/sy2399/Algorithm/blob/master/Daily/1208.%20Trapping%20Rain%20Water%20%5Bleetcode%2042%5D.ipynb) |
-| 9 | 😱[세 수의 합](https://leetcode.com/problems/3sum/) | ★★ | 7장. 배열 | |
+| 8 | ‼️ [빗물 트래핑](https://leetcode.com/problems/trapping-rain-water/) | ★★★ | 7장. 배열 | [20201208](https://github.com/sy2399/Algorithm/blob/master/Daily/1208.%20Trapping%20Rain%20Water%20%5Bleetcode%2042%5D.ipynb) |
+| 9 | ‼️ [세 수의 합](https://leetcode.com/problems/3sum/) | ★★ | 7장. 배열 | |
 | 10 | [배열 파티션 I](https://leetcode.com/problems/array-partition-i/) | ★ | 7장. 배열 | |
 | 11 | [자신을 제외한 배열의 곱](https://leetcode.com/problems/product-of-array-except-self/) | ★★ | 7장. 배열 | |
 | 12 | [주식을 사고팔기 가장 좋은 시점](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | ★ | 7장. 배열 | |
