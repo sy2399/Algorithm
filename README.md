@@ -46,15 +46,12 @@ Algorithm solution
   - 주어진 값을 다 살펴봐야 하지만, 효율적인 방법이 필요할 때!
   - 투 포인터 : 시작점과 끝점 또는 왼쪽 포인터와 오른쪽 포인터 두 지점을 기준으로 하는 문제 풀이 전략
     - 범위를 좁혀 나가기 위해서는 일반적으로 배열이 정렬되어 있을 때 유용
-- 🤖 `임시 변수 활용` : 자신을 제외한 배열의 곱, 두 정렬 리스트의 병합
+- 🤖 `임시 변수 활용` : 자신을 제외한 배열의 곱
   - 공간복잡도 *O(1)*, 시간복잡도 *O(n)* 으로 문제를 풀어야 할 때
   - 이전 값에 대한 정보를 임시로 갖고 있는 `임시 변수` 활용하기
   - 두 변수를 `swap`하는 가장 일반적이고 널리 사용되는 방법은 임시변수를 사용하는 것
     - python에서는 다중 할당이라는 방식으로 임시변수 없이 swap 가능
-    ```
-    a, b = 1
-    a, b = b, a
-    ```
+- 🔁 `재귀` : 두 정렬 리스트의 병합
 
 ***
 | 번호 | 제목 | 난이도 | 장 |clear|
@@ -72,7 +69,7 @@ Algorithm solution
 | 11 | 🤖 [자신을 제외한 배열의 곱](https://leetcode.com/problems/product-of-array-except-self/) | ★★ | 7장. 배열 | [20201211](https://github.com/sy2399/Algorithm/blob/master/Daily/1211.%20Product%20of%20Array%20Except%20Self%20%5Bleetcode%20238%5D.ipynb)|
 | 12 | [주식을 사고팔기 가장 좋은 시점](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | ★ | 7장. 배열 |[20201215](https://github.com/sy2399/Algorithm/blob/master/Daily/1215.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20%5Bleetcode%20121%5D.ipynb) |
 | 13 | [팰린드롬 연결 리스트](https://leetcode.com/problems/palindrome-linked-list/) | ★ | 8장. 연결 리스트 | [20201215](https://github.com/sy2399/Algorithm/blob/master/Daily/1215.%20Palindrome%20LinkedList%20%5Bleetcode%20234%5D.ipynb) |
-| 14 | 🤖 [두 정렬 리스트의 병합](https://leetcode.com/problems/merge-two-sorted-lists/) | ★ | 8장. 연결 리스트 |  |
+| 14 | 🔁 [두 정렬 리스트의 병합](https://leetcode.com/problems/merge-two-sorted-lists/) | ★ | 8장. 연결 리스트 |  |
 | 15 | [역순 연결 리스트](https://leetcode.com/problems/reverse-linked-list/) | ★ | 8장. 연결 리스트 | |
 | 16 | [두 수의 덧셈](https://leetcode.com/problems/add-two-numbers/) | ★★ | 8장. 연결 리스트 | |
 | 17 | [페어의 노드 스왑](https://leetcode.com/problems/swap-nodes-in-pairs/) | ★★ | 8장. 연결 리스트 |  |
