@@ -69,7 +69,7 @@ Algorithm solution
 | 11 | 🤖 [자신을 제외한 배열의 곱](https://leetcode.com/problems/product-of-array-except-self/) | ★★ | 7장. 배열 | [20201211](https://github.com/sy2399/Algorithm/blob/master/Daily/1211.%20Product%20of%20Array%20Except%20Self%20%5Bleetcode%20238%5D.ipynb)|
 | 12 | [주식을 사고팔기 가장 좋은 시점](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | ★ | 7장. 배열 |[20201215](https://github.com/sy2399/Algorithm/blob/master/Daily/1215.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20%5Bleetcode%20121%5D.ipynb) |
 | 13 | [팰린드롬 연결 리스트](https://leetcode.com/problems/palindrome-linked-list/) | ★ | 8장. 연결 리스트 | [20201215](https://github.com/sy2399/Algorithm/blob/master/Daily/1215.%20Palindrome%20LinkedList%20%5Bleetcode%20234%5D.ipynb) |
-| 14 | 🔁 [두 정렬 리스트의 병합](https://leetcode.com/problems/merge-two-sorted-lists/) | ★ | 8장. 연결 리스트 |  |
+| 14 | 🔁 [두 정렬 리스트의 병합](https://leetcode.com/problems/merge-two-sorted-lists/) | ★ | 8장. 연결 리스트 | [20201218](https://github.com/sy2399/Algorithm/blob/master/Daily/1218.%20Merge%20Two%20Sorted%20Lists%20%5Bleetcode%2021%5D.ipynb) |
 | 15 | [역순 연결 리스트](https://leetcode.com/problems/reverse-linked-list/) | ★ | 8장. 연결 리스트 | |
 | 16 | [두 수의 덧셈](https://leetcode.com/problems/add-two-numbers/) | ★★ | 8장. 연결 리스트 | |
 | 17 | [페어의 노드 스왑](https://leetcode.com/problems/swap-nodes-in-pairs/) | ★★ | 8장. 연결 리스트 |  |
