@@ -77,7 +77,7 @@ Algorithm solution
 | 15 | 🔁 [역순 연결 리스트](https://leetcode.com/problems/reverse-linked-list/) | ★ | 8장. 연결 리스트 |[20201223](https://github.com/sy2399/Algorithm/blob/master/Daily/1223.%20Reverse%20Linked%20List%20%5Bleetcode%20206%5D.ipynb) |
 | 16 | [두 수의 덧셈](https://leetcode.com/problems/add-two-numbers/) | ★★ | 8장. 연결 리스트 |[20201223](https://github.com/sy2399/Algorithm/blob/master/Daily/1223.%20Add%20Two%20Numbers%20%5Bleetcode%202%5D.ipynb) |
 | 17 | 🔁 [페어의 노드 스왑](https://leetcode.com/problems/swap-nodes-in-pairs/) | ★★ | 8장. 연결 리스트 |[20201223](https://github.com/sy2399/Algorithm/blob/master/Daily/1223.%20Swap%20Nodes%20in%20Pairs%20%5Bleetcode%2024%5D.ipynb)  |
-| 18 | [홀짝 연결 리스트](https://leetcode.com/problems/odd-even-linked-list/) | ★★ | 8장. 연결 리스트 |  |
+| 18 | [홀짝 연결 리스트](https://leetcode.com/problems/odd-even-linked-list/) | ★★ | 8장. 연결 리스트 | [20201228](https://github.com/sy2399/Algorithm/blob/master/Daily/1228.%20Odd%20Even%20Linked%20List%20%5Bleetcode%20328%5D.ipynb) |
 | 19 | [역순 연결 리스트 II](https://leetcode.com/problems/reverse-linked-list-ii/) | ★★ | 8장. 연결 리스트 | |
 | 20 | [유효한 괄호](https://leetcode.com/problems/valid-parentheses/) | ★ | 9장. 스택, 큐 |  |
 | 21 | [중복 문자 제거](https://leetcode.com/problems/remove-duplicate-letters/) | ★★★ | 9장. 스택, 큐 |  |
