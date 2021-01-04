@@ -59,7 +59,7 @@ Algorithm solution
     - iterative > `prev, curr, next_node` 세개의 변수 적절히 사용
     - 처음에 prev = None 으로 초기화
   - 시작점을 기억하는 `root`변수 사용
-- 📚 `스택` : 중복 문자 제거, 일일 온도
+- 📚 `스택` : 빗물트래핑, 중복 문자 제거, 일일 온도
   -  일단 stack 에 넣고, stack[-1], stack.pop() 최대한 활용
 
 ***
@@ -72,7 +72,7 @@ Algorithm solution
 | 5 | [그룹 애너그램](https://leetcode.com/problems/group-anagrams/) | ★★ | 6장. 문자열 조작 | [20201203](https://github.com/sy2399/Algorithm/blob/master/Daily/1203.%20Group%20Anagrams%20%5Bleetcode%2049%5D.ipynb) |
 | 6 | ‼️ [가장 긴 팰린드롬 부분 문자열](https://leetcode.com/problems/longest-palindromic-substring/) | ★★ | 6장. 문자열 조작 | [20201204](https://github.com/sy2399/Algorithm/blob/master/Daily/1204.%20Logest%20Palindromic%20Substring%20%5Bleetcode%205%5D.ipynb)|
 | 7 | [두 수의 합](https://leetcode.com/problems/two-sum/) | ★ | 7장. 배열 | [20201207](https://github.com/sy2399/Algorithm/blob/master/Daily/1207.%20Two%20Sum%20%5Bleetcode%201%5D.ipynb) |
-| 8 | ‼️ [빗물 트래핑](https://leetcode.com/problems/trapping-rain-water/) | ★★★ | 7장. 배열 | [20201208](https://github.com/sy2399/Algorithm/blob/master/Daily/1208.%20Trapping%20Rain%20Water%20%5Bleetcode%2042%5D.ipynb) |
+| 8 | ‼️ 📚 [빗물 트래핑](https://leetcode.com/problems/trapping-rain-water/) | ★★★ | 7장. 배열 | [20201208](https://github.com/sy2399/Algorithm/blob/master/Daily/1208.%20Trapping%20Rain%20Water%20%5Bleetcode%2042%5D.ipynb) |
 | 9 | ‼️ [세 수의 합](https://leetcode.com/problems/3sum/) | ★★ | 7장. 배열 | [20201209](https://github.com/sy2399/Algorithm/blob/master/Daily/1209.%203Sum%20%5Bleetcode%2015%5D.ipynb) |
 | 10 | [배열 파티션 I](https://leetcode.com/problems/array-partition-i/) | ★ | 7장. 배열 |[20201211](https://github.com/sy2399/Algorithm/blob/master/Daily/1211.%20Array%20Partition%201%5Bleetcode%20561%5D.ipynb) |
 | 11 | 🤖 [자신을 제외한 배열의 곱](https://leetcode.com/problems/product-of-array-except-self/) | ★★ | 7장. 배열 | [20201211](https://github.com/sy2399/Algorithm/blob/master/Daily/1211.%20Product%20of%20Array%20Except%20Self%20%5Bleetcode%20238%5D.ipynb)|
