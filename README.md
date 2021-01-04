@@ -38,7 +38,10 @@ Algorithm solution
   - 동적 배열로 구성된 리스트는 맨 앞 아이템을 가져오기에 적합한 자료형이 아니다 (Shifting으로 인해 시간 복잡도 = O(n) )
   - python의 `Deque`는 `이중연결리스트` 구조로 양쪽 방향 모두 추출하는 데 시간 복잡도 O(1) 에 실행된다
 
-
+### 4. 스택, 큐
+- 스택 활용 문제
+  - 비교해야 할 횟수 줄일때
+    - 일단 stack 에 넣고, stack[-1], stack.pop() 최대한 활용
 
 ***
 **😱 내가 약한 부분**
@@ -56,7 +59,8 @@ Algorithm solution
     - iterative > `prev, curr, next_node` 세개의 변수 적절히 사용
     - 처음에 prev = None 으로 초기화
   - 시작점을 기억하는 `root`변수 사용
-
+- 📚 `스택` : 중복 문자 제거, 일일 온도
+  -  일단 stack 에 넣고, stack[-1], stack.pop() 최대한 활용
 
 ***
 | 번호 | 제목 | 난이도 | 장 |clear|
@@ -81,8 +85,8 @@ Algorithm solution
 | 18 | [홀짝 연결 리스트](https://leetcode.com/problems/odd-even-linked-list/) | ★★ | 8장. 연결 리스트 | [20201228](https://github.com/sy2399/Algorithm/blob/master/Daily/1228.%20Odd%20Even%20Linked%20List%20%5Bleetcode%20328%5D.ipynb) |
 | 19 | 🔁 [역순 연결 리스트 II](https://leetcode.com/problems/reverse-linked-list-ii/) | ★★ | 8장. 연결 리스트 | [20201229](https://github.com/sy2399/Algorithm/blob/master/Daily/1229.%20Reverse%20Linked%20List%202%5Bleetcode%2092%5D.ipynb)|
 | 20 | [유효한 괄호](https://leetcode.com/problems/valid-parentheses/) | ★ | 9장. 스택, 큐 | [20201230](https://github.com/sy2399/Algorithm/blob/master/Daily/1230.%20Valid%20Parentheses%20%5Bleetcode%2020%5D.ipynb) |
-| 21 | [중복 문자 제거](https://leetcode.com/problems/remove-duplicate-letters/) | ★★★ | 9장. 스택, 큐 |  |
-| 22 | [일일 온도](https://leetcode.com/problems/daily-temperatures/) | ★★ | 9장. 스택, 큐 |  |
+| 21 | 📚[중복 문자 제거](https://leetcode.com/problems/remove-duplicate-letters/) | ★★★ | 9장. 스택, 큐 |  |
+| 22 | 📚[일일 온도](https://leetcode.com/problems/daily-temperatures/) | ★★ | 9장. 스택, 큐 |  |
 | 23 | [큐를 이용한 스택 구현](https://leetcode.com/problems/implement-stack-using-queues/) | ★ | 9장. 스택, 큐 |  |
 | 24 | [스택을 이용한 큐 구현](https://leetcode.com/problems/implement-queue-using-stacks/) | ★ | 9장. 스택, 큐 | |
 | 25 | [원형 큐 디자인](https://leetcode.com/problems/design-circular-queue/) | ★★ | 9장. 스택, 큐 |  |
