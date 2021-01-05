@@ -60,7 +60,8 @@ Algorithm solution
     - 처음에 prev = None 으로 초기화
   - 시작점을 기억하는 `root`변수 사용
 - 📚 `스택` : 빗물트래핑, 중복 문자 제거, 일일 온도
-  -  일단 stack 에 넣고, stack[-1], stack.pop() 최대한 활용
+  - 일단 stack 에 넣고, stack[-1], stack.pop() 최대한 활용
+  - 앞의 것들과 비교해야 할 때, stack을 쓰면 반복 횟수를 줄일 수 있음
 
 ***
 | 번호 | 제목 | 난이도 | 장 |clear|
