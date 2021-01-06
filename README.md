@@ -91,7 +91,7 @@ Algorithm solution
 | 23 | [큐를 이용한 스택 구현](https://leetcode.com/problems/implement-stack-using-queues/) | ★ | 9장. 스택, 큐 | [20210104](https://github.com/sy2399/Algorithm/blob/master/Daily/0104.%20Implement%20Stack%20using%20Queues%20%5Bleetcode%20225%5D.ipynb) |
 | 24 | [스택을 이용한 큐 구현](https://leetcode.com/problems/implement-queue-using-stacks/) | ★ | 9장. 스택, 큐 |[20210104](https://github.com/sy2399/Algorithm/blob/master/Daily/0104.%20Implement%20Queue%20using%20Stacks%20%5Bleetcode%20232%5D.ipynb) |
 | 25 | [원형 큐 디자인](https://leetcode.com/problems/design-circular-queue/) | ★★ | 9장. 스택, 큐 | [21210104](https://github.com/sy2399/Algorithm/blob/master/Daily/0104.%20Design%20Circular%20Queue%20%5Bleetcode%20622%5D.ipynb) |
-| 26 | [원형 데크 디자인](https://leetcode.com/problems/design-circular-deque/) | ★★ | 10장. 데크, 우선 순위 큐 | |
+| 26 | [원형 데크 디자인](https://leetcode.com/problems/design-circular-deque/) | ★★ | 10장. 데크, 우선 순위 큐 |[20210106](https://github.com/sy2399/Algorithm/blob/master/Daily/0106.%20Design%20Circular%20Deque%20%5Bleetcode%20641%5D.ipynb) |
 | 27 | [k개 정렬 리스트 병합](https://leetcode.com/problems/merge-k-sorted-lists/) | ★ | 10장. 데크, 우선 순위 큐 | |
 | 28 | [해시맵 디자인](https://leetcode.com/problems/design-hashmap/) | ★ | 11장. 해시 테이블 |  |
 | 29 | [보석과 돌](https://leetcode.com/problems/jewels-and-stones/) | ★ | 11장. 해시 테이블 | |
