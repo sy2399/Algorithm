@@ -46,6 +46,10 @@ Algorithm solution
 ### 5. 데크, 우선순위 큐
 - 우선순위 큐: 어떠한 특정 조건에 따라 `우선순위`가 가장 높은 요소가 추출되는 자료형
   - Python에서 우선순위 큐 관련 문제는 대부분 `heapq`를 사용
+  
+### 6. 해시 테이블
+- python Dictionary 해시 테이블로 구현되어 있음: `collections.defaultdict`
+  - 존재하지 않는 키를 조회할 경우 자동으로 디폴트 생성
 ***
 **😱 내가 약한 부분**
 - ‼️ `투 포인터 활용 문제` : 가장 긴 팰린드롬, 빗물 트래핑, 세 수의 합
@@ -96,7 +100,7 @@ Algorithm solution
 | 25 | [원형 큐 디자인](https://leetcode.com/problems/design-circular-queue/) | ★★ | 9장. 스택, 큐 | [20210104](https://github.com/sy2399/Algorithm/blob/master/Daily/0104.%20Design%20Circular%20Queue%20%5Bleetcode%20622%5D.ipynb) |
 | 26 | [원형 데크 디자인](https://leetcode.com/problems/design-circular-deque/) | ★★ | 10장. 데크, 우선 순위 큐 |[20210106](https://github.com/sy2399/Algorithm/blob/master/Daily/0106.%20Design%20Circular%20Deque%20%5Bleetcode%20641%5D.ipynb) |
 | 27 | [k개 정렬 리스트 병합](https://leetcode.com/problems/merge-k-sorted-lists/) | ★ | 10장. 데크, 우선 순위 큐 |[20210106](https://github.com/sy2399/Algorithm/blob/master/Daily/0106.%20Merge%20k%20Sorted%20Lists%20%5Bleetcode%2023%5D.ipynb) |
-| 28 | [해시맵 디자인](https://leetcode.com/problems/design-hashmap/) | ★ | 11장. 해시 테이블 |  |
+| 28 | [해시맵 디자인](https://leetcode.com/problems/design-hashmap/) | ★ | 11장. 해시 테이블 | [20210107](https://github.com/sy2399/Algorithm/blob/master/Daily/0107.%20Design%20HashMap%20%5Bleetcode%20706%5D.ipynb) |
 | 29 | [보석과 돌](https://leetcode.com/problems/jewels-and-stones/) | ★ | 11장. 해시 테이블 | |
 | 30 | [중복 문자 없는 가장 긴 부분 문자열](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ★★ | 11장. 해시 테이블 | |
 | 31 | [상위 K 빈도 요소](https://leetcode.com/problems/top-k-frequent-elements/) | ★★ | 11장. 해시 테이블 | |
