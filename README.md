@@ -74,7 +74,7 @@ Algorithm solution
 | 번호 | 제목 | 난이도 | 장 |clear|
 | --- | --- | ---- | - | --- |
 | 1 | [유효한 팰린드롬](https://leetcode.com/problems/valid-palindrome/) | ★ | 6장. 문자열 조작 | [20201130](https://github.com/sy2399/Algorithm/blob/master/Daily/1130.%20Valid%20Palindrome%20%5Bleetcode%20125%5D.ipynb) |
-| 2 | [문자열 뒤집기](https://leetcode.com/problems/reverse-string/) | ★ | 6장. 문자열 조작 | [20201130](https://github.com/sy2399/Algorithm/blob/master/Daily/1130.%20Reverse%20String%20%5Bleetcode%20344%5D.ipynb) |
+| 2 | [문자열 뒤집기](https://leetcode.com/problems/reverse-string/) | ★ | 6장. 문자열 조작 | [20201130](https://github.com/sy2399/Algorithm/blob/master/Daily/%5Bch1%20%EB%AC%B8%EC%9E%90%EC%97%AD%20%EC%A1%B0%EC%9E%91%5D%201130.%20Reverse%20String%20%5Bleetcode%20344%5D.ipynb) |
 | 3 | [로그 파일 재정렬](https://leetcode.com/problems/reorder-data-in-log-files/) | ★ | 6장. 문자열 조작 | [20201201](https://github.com/sy2399/Algorithm/blob/master/Daily/1201.%20Reorder%20Data%20in%20Log%20Files%20%5Bleetcode%20937%5D.ipynb)|
 | 4 | [가장 흔한 단어](https://leetcode.com/problems/most-common-word/) | ★ | 6장. 문자열 조작 | [20201201](https://github.com/sy2399/Algorithm/blob/master/Daily/1201.%20Most%20Common%20Word%20%5Bleetcode%20819%5D.ipynb) |
 | 5 | [그룹 애너그램](https://leetcode.com/problems/group-anagrams/) | ★★ | 6장. 문자열 조작 | [20201203](https://github.com/sy2399/Algorithm/blob/master/Daily/1203.%20Group%20Anagrams%20%5Bleetcode%2049%5D.ipynb) |
