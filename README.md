@@ -50,6 +50,23 @@ Algorithm solution
 ### 6. 해시 테이블
 - python Dictionary 해시 테이블로 구현되어 있음: `collections.defaultdict`
   - 존재하지 않는 키를 조회할 경우 자동으로 디폴트 생성
+  
+### 7. 그래프
+- 그래프 순회 : DFS, BFS
+  - DFS : 재귀, 반복(stack)
+  - BFS : 반복 (queue)
+  
+| 코드 | DFS | BFS |
+| ------ | ------ | ------ |
+|discovered 초기화|[  ]|[start_v]|
+|v|stack.pop()|queue.pop(0)|
+|1st 작업|if v not in discovered|for w in graph[v]|
+|2nd |for w in graph[v]|if not w in discovered|
+|discover에 값 추가|discover.append(v)| discover.append(w)|
+
+- 백트래킹: 백트래킹은 해결책에 대한 후보를 구축해 나아가다 가능성이 없다고 판단되는 즉시 후보를 포기(backtrack)해 정답을 찾아가는 알고리즘(`제약 충족` 문제에 특히 유용)
+  - DFS 응용
+  - 주로 재귀로 구현
 ***
 **😱 내가 약한 부분**
 - ‼️ `투 포인터 활용 문제` : 가장 긴 팰린드롬, 빗물 트래핑, 세 수의 합
